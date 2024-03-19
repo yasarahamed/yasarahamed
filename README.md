@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasar Ahamed</h1>
-<h3 align="center">A passionate Automotive Software Engineer , Currently pursuing Master's in Automnotive Software Engineering in Chemnitz university of Technology, Germany</h3>
+<h3 align="center">A passionate Automotive Software Engineer , Currently pursuing Master's in Automotive Software Engineering in Chemnitz university of Technology, Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasarahamed&label=Profile%20views&color=0e75b6&style=flat" alt="yasarahamed" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasarahamed" alt="yasarahamed" /></a> </p>
 
 - 🔭 I’m currently working on **Email Spam Classification using ML**
 
@@ -28,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasarahamed&show_icons=true&locale=en" alt="yasarahamed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasarahamed&" alt="yasarahamed" /></p>
-
