@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasar Ahamed</h1>
-<h3 align="center">A passionate Automotive Software Engineer , Currently pursuing Master's in Automotive Software Engineering in Chemnitz university of Technology, Germany</h3>
+<h3 align="center">A passionate Automotive Software Engineer with 2.5 years of experience in Automotive Testing , Currently pursuing Master's in Automotive Software Engineering in Chemnitz university of Technology, Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasarahamed&label=Profile%20views&color=0e75b6&style=flat" alt="yasarahamed" /> </p>
 
