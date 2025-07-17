@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasarahamed&label=Profile%20views&color=0e75b6&style=flat" alt="yasarahamed" /> </p>
 
-- 🔭 I’m currently working on **Email Spam Classification using ML**
+- 🔭 I’m currently working on **Azure Devops,Docker and Kubernetes**
 
-- 🌱 I’m currently learning **ROS, Artificial Intelligence and Machine Learning**
+- 🌱 I’m currently learning **DevOps and MLOps**
 
-- 👯 I’m looking for Internships in **Automotive Software,IoT, AI and ML**
+- 👯 I’m looking for Master Thesis in **Automotive Software,IoT, AI and ML,Cloud and Devops**
 
-- 💬 Ask me about **IoT, Automotive Testing, CAN, J1939, Ethernet, Flexray**
+- 💬 Ask me about **Automation, Cloud, DevOps, IoT, Automotive Testing**
 
 - 📫 How to reach me **yasarsiraj@gmail.com**
 
